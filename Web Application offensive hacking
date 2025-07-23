@@ -1,1 +1,76 @@
+# Ethical Hacking
+
+
+Steps to perform Ethical Hacking 
+
+1) Reconnaissance - Pre attack phase ( to gather information as much as can possible before launching attack)
+2) Scanning - after observed target and after just preceading the attack. Here identify spceific vunerability.
+3) Gaining Access 
+4) Maintaining Access 
+5) Clearing Tracks
+
+
+# Terminology 
+
+1) Threat
+2) Vulnerability - Loophole or weakness
+3) Exploit - Take advantage of vulnerability
+4) Payload - set of operations
+5) Attack - Break into system
+6) Attack Vectors - Path to access information system
+7) Zero - day Attack
+
+# Popular Web servers - Apache , Xampp , Nginx, IIs web server etc.,
+# OWASP online Community
+
+  AIM - to raise awareness related to web application security
+
+- Produces freely - available articles, methodlogies,documentation, tools,
+                    and technologies in the field of web application security.
+
+BUG BOUNTY HUNTING -- GET STARTED
+
+
+# Programming Languages - Java,Node.js,PHP,ASP,dot Net,MySQL.
+# Learn web application measures and Hacking techniques.
+# Keep update yourself about latest trends and current vulnerabilites.
+
+
+Methodology for bug bounty hunting
+
+- Check the target scope and building sitemaps
+- Recon to find target
+- Google dorks for gathering info about target
+- Reveiw all service, ports and applications on the target
+- Check backened language and hunt subdomains
+- Check each request and response
+- Fuzz for errors and explore vulnerability
+- Attack vulnerabilites
+
+Tools: Web vulnerability scanners
+
+- w3af- detect and identify web application firewall
+- owasp zap - web application scan for vulnerability
+- Burpsuite - web parameter tampering
+- Nikto - black box web server vulnerability scanner.
+- Netsparker - Find security flaws in automated manner
+- SQLmate,sqlmap - identifies sqli vulnerabilities
+- Arachni -evaluate web applications security
+- Wapiti - built-in fuzzer, black box web app vul scan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
