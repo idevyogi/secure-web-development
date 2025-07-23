@@ -38,6 +38,8 @@ BUG BOUNTY HUNTING -- GET STARTED
 
 Methodology for bug bounty hunting
 
+NOTE -- ERROR Analysis is very very important. Read them , analysis them and make narrow beam width.
+
 - Check the target scope and building sitemaps
 - Recon to find target
 - Google dorks for gathering info about target
@@ -55,8 +57,36 @@ Tools: Web vulnerability scanners
 - Nikto - black box web server vulnerability scanner.
 - Netsparker - Find security flaws in automated manner
 - SQLmate,sqlmap - identifies sqli vulnerabilities
-- Arachni -evaluate web applications security
+- Arachni - evaluate web applications security
 - Wapiti - built-in fuzzer, black box web app vul scan
+
+# BUG BOUNTY Plateforms
+
+Bugcrowd  ( https://www.bugcrowd.com )
+Hackerone
+Synack
+Cobalt
+Zerocopter
+Hackenproof
+BountyFactory
+Bug Bounty Programme List
+AntiHack
+
+
+# Bug Bounty - RCE ( Remote Code Execution)
+
+-- RCE is very critical vulnerability (Malicious code execution on the server)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
